@@ -33,6 +33,7 @@ You are done at the end of Part 3, when all PRs are merged and the tests pass.
 1. On the GitHub page for your team repo, click the "Star" button in the upper right corner.  
    * Now you can always find the repo on GitHub: click your profile icon in upper right corner and "Stars".  
 1. Everyone clones the new team repo locally to their computer.  
+   * DO NOT clone it as a subfolder of the 46120 repo!   
 1. Discuss with your team:  
    * Who will (1) author and who will (2) review which feature branches.  
       * An author of a feature branch may not be the reviewer of that branch.  
@@ -131,6 +132,11 @@ questions.  (Note that for question 6 you will need to also push an image.)
  * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)  
    A good reference of the most common commands
 
+Good, concise articles on basic git practices
+ * [Atlassian tutorial on add/commit/stash/gitignore](https://www.atlassian.com/git/tutorials/saving-changes)
+ * [Atlassian tutorial on merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+ * [Atlassian tutorial on merge conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+
 ### Extra resources
 
  * [Video: Cloning, pushing and pulling by Jenni](https://panopto.dtu.dk/Panopto/Pages/Viewer.aspx?id=49668227-45c1-48ee-bc99-b1070104253e).  
@@ -141,5 +147,3 @@ questions.  (Note that for question 6 you will need to also push an image.)
    Background on git/GitLab but also a lot of examples of git terminal commands.
  * [GitHub docs on pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).  
  * [GitHub tutorial on how to review pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request).  
- * [Atlassian tutorial on add/commit/stash/gitignore](https://www.atlassian.com/git/tutorials/saving-changes)
- * [Atlassian tutorial on merge conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
