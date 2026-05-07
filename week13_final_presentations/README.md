@@ -24,22 +24,22 @@ Your team must submit the feedback forms for 3 other teams by **Thursday May 7, 
 
 Each team evaluates the other teams in the same set as them:
 
-| Set  | Team 1                 | Team 2             | Team 3              | Team 4  |
-|------|------------------------|--------------------|---------------------|---------|
-| A    | Group_26               | EMMUS              | FreGuLa             |         |
-| B    | Group 40               | Mzansi             | TTA                 |         |
-| C    | Prompt Engineers       | JNS                | Fasigi              |         |
-| D    | Insert_Team_Name_here  | Pumpkin            | ciao_polonia        |         |
-| E    | PJ                     | Jarla              | CYWMBW              |         |
-| F    | ErScPt                 | HaFlo              | Office155           |         |
-| G    | Carnami                | the_best_team      | diciassette         |         |
-| H    | Greenland              | Anjaca             | slumscript          | OmPaDa  |
-| I    | Pasticciotti           | MMC2               | Group 19            |         |
-| J    | PremiumGPT             | Group 6            | MaCrIn              |         |
-| K    | SSD                    | Worcestershire     | Adrion              |         |
-| L    | perolacon              | What a Tim         | Group 10            |         |
-| M    | piwe_cool_kids          | romaal             | camprock-girls      |         |
-| N    | Krisacis               | Curry Gang         | Pasti_lulus         | PARS    
+| Set  | Team 1                 | Team 2             | Team 3              | Team 4  | Physical room | BOR |        
+|------|------------------------|--------------------|---------------------|---------|---------|----|
+| A    | Group_26               | EMMUS              | FreGuLa             |         |  001   |  1  |
+| B    | Group 40               | Mzansi             | TTA                 |         |  001   |  2  |
+| C    | Prompt Engineers       | JNS                | Fasigi              |         |  001   |  3  |
+| D    | Insert_Team_Name_here  | Pumpkin            | ciao_polonia        |         |  001   |  4  |
+| E    | PJ                     | Jarla              | CYWMBW              |         |  001   |  5  |
+| F    | ErScPt                 | HaFlo              | Office155           |         |  002   |  6  |
+| G    | Carnami                | the_best_team      | diciassette         |         |  002   |  7  |
+| H    | Greenland              | Anjaca             | slumscript          | OmPaDa  |  002   |  8  |
+| I    | Pasticciotti           | MMC2               | Group 19            |         |  002   |  9  |
+| J    | PremiumGPT             | Group 6            | MaCrIn              |         |  002   |  10  |
+| K    | SSD                    | Worcestershire     | Adrion              |         |  012   |  11  |
+| L    | perolacon              | What a Tim         | Group 10            |         |  012   |  12  |
+| M    | piwe_cool_kids          | romaal             | camprock-girls      |        |  012   |  13  | 
+| N    | Krisacis               | Curry Gang         | Pasti_lulus         | PARS    |  012  |  14  |
 
 
 ## During class
@@ -53,14 +53,8 @@ feedback session and cross-topic presentations.
  * 09.25    Quiz ends
  * 09.25    Fill out final survey for pedagogical research
  * 09.50    Feedback session begins. BORs indicated in image below.  
- * 10.45    Session ends, discussion in plenum
- * 11.00    Short break (maybe more snacks?)
- * 11.15    Cross-topic presentations  
-    * Some teams will be randomly chosen to stay in BORs, others will rotate.
-      Teams will give a short presentation of their package objective
-      and then live-demo their main script/notebook.
- * 11.30    Final plenum discussion  
- * 11.40    Wrap-up and thanks
+ * 10.35    Session ends, discussion in plenum
+ * 11.00    Wrap-up and thanks
 
 
 ## In-class quiz
